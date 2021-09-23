@@ -35,7 +35,7 @@
 
 <br/>
 
-<h2>⚡ Main Technologies</h2>
+<h2 align="left">⚡ Main Technologies</h2>
 
 <br/>
 
