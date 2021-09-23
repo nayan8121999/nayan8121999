@@ -29,7 +29,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Nayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayan8121999&custom_title=Nayan%20Patil's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Nayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayan8121999&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
@@ -62,12 +62,6 @@
 </p>
 
 <br/>
-
-<h2>📜 Resume (Nodejs + Mongoose)</h2>
-
-<br/>
-
-
 
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
